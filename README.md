@@ -35,3 +35,4 @@
 7. Monitoring and Logging:
   Implement application and infrastructure monitoring to identify and address issues.
   Log user activity and system events for auditing and troubleshooting.
+                                                       ![Database Design](assests/images/db.jpg)
